@@ -1,16 +1,36 @@
 ## Hi there 👋
+### My name is **George** and I'm a fourth-year M.Sc. student in Computer Engineering at Jönköping University, specializing in Artificiell Intelligens. 
 
-<!--
-**George3235/George3235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My interests lie in embedded electronics, software development, and AI development, where I'm continually expanding my knowledge and skills.
 
-Here are some ideas to get you started:
+<details>
+  <summary>💡 Skills</summary>
+  - C-languages (C, C#, C++)
+  - Embedded Electronics (ESP32, Raspberry Pico Pi, NUCLEO STM32)
+  - HTML, CSS
+  - JavaScript (React, Node.js, ..)
+  - Database (SQL, MongoDB, Firebase)
+  - MERN-Stack
+  - CUDA
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>🛠 Tools</summary>
+  - Visual Studio Code
+  - Visual Studio
+  - Jetson Nano NVIDIA
+  - STM32CubeIDE
+  - Arduino IDE
+  - Platform IO
+</details>
+
+## 🚀 Projects
+- [Makro_Pad](https://github.com/George3235/Makro_Pad) - Custom 3x3 macro pad with ESP32-S3
+- [Hotel404](https://github.com/calle256/hotel-404) - MERN-stack Web app project
+- [Interplanetary_Rover](https://github.com/ctaqvist/Knowit-NFK-25) - Part of an Agile team
+
+## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/george-saba-940759123/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=George3235&layout=compact)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=George3235&show_icons=true&theme=default)
