@@ -31,6 +31,6 @@
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/george-saba-940759123/)
-<br/> 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=George3235&layout=compact)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=George3235&show_icons=true&theme=default)
