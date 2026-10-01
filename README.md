@@ -1,5 +1,5 @@
 ## Hi there 👋
-### My name is **George** and I'm a fourth-year M.Sc. student in Computer Engineering at Jönköping University, specializing in Artificiell Intelligens. 
+### My name is **George** and I'm a fifth-year M.Sc. student in Computer Engineering at Jönköping University, specializing in Artificiell Intelligens. 
 
 ### My interests lie in embedded electronics, software development, and AI development, where I'm continually expanding my knowledge and skills.
 
